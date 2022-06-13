@@ -1,2 +1,1 @@
-# kubenews
-Desafio Iniciativa Kubernetes 
+# kube-news
